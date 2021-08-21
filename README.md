@@ -46,3 +46,8 @@ To expand the view of a struct in memory, right click anywhere in the struct vie
 To change a node's type, right click on the node, and select "Change Type."  You can then select the type you wish to apply.
 <br />
 ![image](https://user-images.githubusercontent.com/75095310/130306754-a8d910dc-8e4a-4807-8297-dfec630526d7.png)
+
+To convert a node to a class within reclass, right click the node, and select "Create Class from Node(s)."  This is used to convert a struct within memory to a customizable struct within reclass.  The second image is an example of a struct within the current one.  On the left hand side, you can see the corresponding struct to the one inside the struct memory view.
+<br />
+![image](https://user-images.githubusercontent.com/75095310/130306789-f1d52687-c9a2-431b-b73b-4d50f0ca895f.png)
+![image](https://user-images.githubusercontent.com/75095310/130306844-0adc805f-623c-4147-b1fd-6aba9097aa5d.png)

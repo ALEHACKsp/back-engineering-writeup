@@ -19,3 +19,7 @@ struct dissect_me_t
 	const std::uint64_t m1 = 0x1122334455667788, m2 = 0x8877665544332211;
 };
 ```
+To begin dissecting the program, follow the instructions below:
+
+Select "file"
+[](https://i.imgur.com/iXUxfXL.png)

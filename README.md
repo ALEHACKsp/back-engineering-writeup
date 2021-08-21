@@ -54,7 +54,7 @@ To convert a node to a class within reclass, right click the node, and select "C
 
 These are the most used controls within reclass;  Now we can begin dissecting our example program.
 
-If you have not done already, please start "reclass-example.exe" and attach to it, as explained above.
+If you have not done already, please start "reclass-example-one.exe" and attach to it, as explained above.
 
 The address will appear on screen, go ahead and enter this into the reclass address box.
 <br />
@@ -86,3 +86,9 @@ struct dissect_me_t
 	const dissect_me_nested_t* dissect_me_nested_two;
 };
 ```
+If you have not done already, please start "reclass-example-two.exe" and attach to it, as explained above.
+
+The address will appear on screen ( dissect_me ), go ahead and enter this into the reclass address box.
+
+Your reclass should now look as follows:
+![image](https://user-images.githubusercontent.com/75095310/130307314-1e781ca6-a8bc-49bb-9939-81a315fddde2.png)

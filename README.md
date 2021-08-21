@@ -38,3 +38,7 @@ To delete a class, simply right the class name under the "classes" tag, and sele
 To view a struct in memory, click the address box, paste your address, and click enter
 <br />
 ![image](https://user-images.githubusercontent.com/75095310/130306402-6356cf79-bd00-4145-ac4a-075dac29db85.png)
+
+To expand the view of a struct in memory, right click anywhere in the struct view, and click "Add Bytes."  You can then select the amount of bytes you wish to add to the view.
+<br />
+![image](https://user-images.githubusercontent.com/75095310/130306677-98249a10-b8a9-45c9-93af-d73657bf6126.png)

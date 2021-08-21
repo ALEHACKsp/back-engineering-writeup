@@ -10,4 +10,4 @@ To understand my series to its fullest extent, you should have a basic comprehen
 In this segment of the series, I will explain how to use tools such as reclass, cheat engine, and ida.
 
 ### Reclass
-Reclass is a powerful tool used to view structs in memory as well as construct them.
+Reclass is a powerful tool used to view structs in memory as well as construct them.  Lets start with an example, the program I am using for this example can be found here: FULL.detect

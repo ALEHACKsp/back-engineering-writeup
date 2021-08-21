@@ -20,7 +20,7 @@ struct dissect_me_t
 };
 ```
 
-I will first explain the controls of reclass before we begin dissecting an example program.
+I will first explain the common controls of reclass before we begin dissecting an example program.
 
 To begin dissecting a program, click "file" -> "attach to process" -> find the process and click attach.
 
@@ -34,3 +34,7 @@ To create a new struct type, you would right click "classes" at the left hand si
 To delete a class, simply right the class name under the "classes" tag and select "Delete class"
 <br />
 ![image](https://user-images.githubusercontent.com/75095310/130306312-32402a2b-570b-40e6-8b4d-7aacffde5d2f.png)
+
+To view a struct in memory, click the address box, paste your address, and click enter
+<br />
+![image](https://user-images.githubusercontent.com/75095310/130306402-6356cf79-bd00-4145-ac4a-075dac29db85.png)

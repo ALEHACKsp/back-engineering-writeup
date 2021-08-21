@@ -22,7 +22,7 @@ struct dissect_me_t
 To begin dissecting the program, follow the instructions below:
 
 ![](https://i.imgur.com/iXUxfXL.png)
-![](https://i.imgur.com/YIS7RPW.png)
 <br/>
+![](https://i.imgur.com/YIS7RPW.png)
 <br/>
 ![](https://i.imgur.com/tmaE2wR.png)

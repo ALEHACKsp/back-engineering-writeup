@@ -42,3 +42,7 @@ To view a struct in memory, click the address box, paste your address, and click
 To expand the view of a struct in memory, right click anywhere in the struct view, and click "Add Bytes."  You can then select the amount of bytes you wish to add to the view.
 <br />
 ![image](https://user-images.githubusercontent.com/75095310/130306677-98249a10-b8a9-45c9-93af-d73657bf6126.png)
+
+To change a node's type, right click on the node, and select "Change Type."  You can then select the type you wish to apply.
+<br />
+![image](https://user-images.githubusercontent.com/75095310/130306734-2521d8ef-3fd2-47c2-8c0d-5e068c4c3b76.png)

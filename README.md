@@ -70,6 +70,8 @@ Looks familiar, right?  Bingo!  This is the same numbers from the struct that we
 
 Now that we have completed basic dissection, we can move onto setting types, as well as nested structs.
 
+the program I am using for this example can be found here: https://github.com/Compiled-Code/back-engineering-writeup/blob/main/reclass-example-two.exe?raw=true
+
 The structs that I am dissecting are as folows:
 ```cpp
 struct dissect_me_nested_t
@@ -99,3 +101,5 @@ It should look similar to this image:
 ![image](https://user-images.githubusercontent.com/75095310/130307445-7499ba16-c27c-46eb-82f2-5c1f32db6af3.png)
 
 On the right side, you will see the string which we have set.  Next to the string, there is a "<DATA>" identifier, this indicates that the string exists within a data section.  Below the string, you also see the number which we have set.
+
+I hope that you now have a better understanding of reclass, we will be using this frequently during the series, try to become comfortable with the program.  You can write your own programs and view how the structs will look in memory as more practice.

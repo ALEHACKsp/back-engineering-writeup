@@ -98,4 +98,4 @@ In the struct memory view, you will see two heap allocations, these are the memo
 It should look similar to this image:
 ![image](https://user-images.githubusercontent.com/75095310/130307445-7499ba16-c27c-46eb-82f2-5c1f32db6af3.png)
 
-On the right side, you will see the string which we have set.  Next to the string, there is a "<DATA>" identifier, this indicates that the string exists within a data section.
+On the right side, you will see the string which we have set.  Next to the string, there is a "<DATA>" identifier, this indicates that the string exists within a data section.  Below the string, you also see the number which we have set.

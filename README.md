@@ -67,3 +67,5 @@ We can see at offset 0, there exists a number which shows 0x1122334455667788.  W
 ![image](https://user-images.githubusercontent.com/75095310/130306986-0c4abb4d-2942-40a5-9853-356e2b73e14a.png)
 
 Looks familiar, right?  Bingo!  This is the same numbers from the struct that we created.
+
+Now that we have completed basic dissection, we can move onto setting types, as well as nested structs.

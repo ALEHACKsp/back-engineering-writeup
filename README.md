@@ -5,3 +5,9 @@ So, you would like to become a game hacker;  But you are found asking yourself, 
 
 ## Prerequisites
 To understand my series to its fullest extent, you should have a basic comprehension of assembly and c++ as well as a basic understanding of memory.
+
+## The Basics
+In this segment of the series, I will explain how to use tools such as reclass, cheat engine, and ida.
+
+### Reclass
+Reclass is a powerful tool used to view structs in memory as well as construct them.

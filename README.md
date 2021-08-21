@@ -51,3 +51,7 @@ To convert a node to a class within reclass, right click the node, and select "C
 <br />
 ![image](https://user-images.githubusercontent.com/75095310/130306789-f1d52687-c9a2-431b-b73b-4d50f0ca895f.png)
 ![image](https://user-images.githubusercontent.com/75095310/130306844-0adc805f-623c-4147-b1fd-6aba9097aa5d.png)
+
+These are the most used controls within reclass;  Now we can begin dissecting our example program.
+
+If you have not done already, please start "reclass-example.exe" and attach to it, as explained above.

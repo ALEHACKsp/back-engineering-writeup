@@ -22,4 +22,4 @@ struct dissect_me_t
 To begin dissecting the program, follow the instructions below:
 
 Select "file"
-[a](https://i.imgur.com/iXUxfXL.png)
+![](https://i.imgur.com/iXUxfXL.png)

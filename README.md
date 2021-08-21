@@ -12,7 +12,7 @@ In this segment of the series, I will explain how to use tools such as reclass, 
 ### Reclass
 Reclass is a powerful tool used to view structs in memory as well as construct them.  Lets start with an example, the program I am using for this example can be found here: https://github.com/Compiled-Code/back-engineering-writeup/blob/main/reclass-example-one.exe?raw=true
 
-The code of the struct I am dissecting is as follows: 
+The code of the struct I am dissecting are as follows: 
 ```c++
 struct dissect_me_t
 {
@@ -69,3 +69,20 @@ We can see at offset 0, there exists a number which shows 0x1122334455667788.  W
 Looks familiar, right?  Bingo!  This is the same numbers from the struct that we created.
 
 Now that we have completed basic dissection, we can move onto setting types, as well as nested structs.
+
+The structs that I am dissecting are as folows:
+```cpp
+struct dissect_me_nested_t
+{
+	const char* const m1 = "hello from dissect me";
+
+	const std::uint64_t m2 = 0x1122334455667788;
+};
+
+struct dissect_me_t
+{
+	const dissect_me_nested_t* dissect_me_nested_one;
+
+	const dissect_me_nested_t* dissect_me_nested_two;
+};
+```

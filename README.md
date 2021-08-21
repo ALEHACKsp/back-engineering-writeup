@@ -24,4 +24,6 @@ To begin dissecting the program, click "file" -> "attach to process" -> find the
 The interface of reclass is as follows:
 ![image](https://user-images.githubusercontent.com/75095310/130306174-ac9f98ec-a4e0-4c3a-bcf7-b21f20f2f786.png)
 
-To create a new struct type, you would right click "classes" at the left hand side and click "add new class." ![image](https://user-images.githubusercontent.com/75095310/130306219-730caa6c-1a64-4add-9c63-d483e77d0eb3.png)
+To create a new struct type, you would right click "classes" at the left hand side and click "add new class." 
+<br />
+![image](https://user-images.githubusercontent.com/75095310/130306219-730caa6c-1a64-4add-9c63-d483e77d0eb3.png)

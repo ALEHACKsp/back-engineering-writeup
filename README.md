@@ -19,7 +19,10 @@ struct dissect_me_t
 	const std::uint64_t m1 = 0x1122334455667788, m2 = 0x8877665544332211;
 };
 ```
-To begin dissecting the program, click "file" -> "attach to process" -> find the process and click attach.
+
+I will first explain the controls of reclass before we begin dissecting an example program.
+
+To begin dissecting a program, click "file" -> "attach to process" -> find the process and click attach.
 
 The interface of reclass is as follows:
 ![image](https://user-images.githubusercontent.com/75095310/130306174-ac9f98ec-a4e0-4c3a-bcf7-b21f20f2f786.png)
@@ -27,3 +30,7 @@ The interface of reclass is as follows:
 To create a new struct type, you would right click "classes" at the left hand side and click "add new class." 
 <br />
 ![image](https://user-images.githubusercontent.com/75095310/130306219-730caa6c-1a64-4add-9c63-d483e77d0eb3.png)
+
+To delete a class, simply right the class name under the "classes" tag and selecte "Delete class"
+<br />
+![image](https://user-images.githubusercontent.com/75095310/130306312-32402a2b-570b-40e6-8b4d-7aacffde5d2f.png)

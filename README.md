@@ -61,3 +61,9 @@ The address will appear on screen, go ahead and enter this into the reclass addr
 ![image](https://user-images.githubusercontent.com/75095310/130306889-622f6eb6-b3e3-476a-b93f-adabef54f96f.png)
 
 Now, in the struct view, you will see how this memory block looks in memory.  The red hex numbers on the left side of the struct memory view indicates the offset of the value within memory, as you can see, this appears within multiples of eight ( the size of a pointer on a x64 system ).
+
+We can see at offset 0, there exists a number which shows 0x1122334455667788.  We can also see at offset 8, there exists a number which shows 0x8877665544332211.
+<br />
+![image](https://user-images.githubusercontent.com/75095310/130306986-0c4abb4d-2942-40a5-9853-356e2b73e14a.png)
+
+Looks familiar, right?  Bingo!  This is the same numbers from the struct that we created.

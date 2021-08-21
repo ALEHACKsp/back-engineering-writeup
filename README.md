@@ -92,3 +92,8 @@ The address will appear on screen ( dissect_me ), go ahead and enter this into t
 
 Your reclass should now look as follows:
 ![image](https://user-images.githubusercontent.com/75095310/130307314-1e781ca6-a8bc-49bb-9939-81a315fddde2.png)
+
+In the struct memory view, you will see two heap allocations, these are the memory addresses of the dissect_me_nested structs.  Double click the address next to the "<HEAP>" and copy it.  In the class view on the left side, add a new class and paste the dissect_me_nested struct address that you just copied.
+
+It should look similar to this image:
+![image](https://user-images.githubusercontent.com/75095310/130307445-7499ba16-c27c-46eb-82f2-5c1f32db6af3.png)

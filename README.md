@@ -55,3 +55,9 @@ To convert a node to a class within reclass, right click the node, and select "C
 These are the most used controls within reclass;  Now we can begin dissecting our example program.
 
 If you have not done already, please start "reclass-example.exe" and attach to it, as explained above.
+
+The address will appear on screen, go ahead and enter this into the reclass address box.
+<br />
+![image](https://user-images.githubusercontent.com/75095310/130306889-622f6eb6-b3e3-476a-b93f-adabef54f96f.png)
+
+Now, in the struct view, you will see how this memory block looks in memory.  The red hex numbers on the left side of the struct memory view indicates the offset of the value within memory, as you can see, this appears within multiples of eight ( the size of a pointer on a x64 system ).

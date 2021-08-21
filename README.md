@@ -19,10 +19,7 @@ struct dissect_me_t
 	const std::uint64_t m1 = 0x1122334455667788, m2 = 0x8877665544332211;
 };
 ```
-To begin dissecting the program, follow the instructions below:
+To begin dissecting the program, click "file" -> "attach to process" -> find the process and click attach.
 
-![](https://i.imgur.com/iXUxfXL.png)
-<br/>
-![](https://i.imgur.com/YIS7RPW.png)
-<br/>
-![](https://i.imgur.com/tmaE2wR.png)
+The interface of reclass is as follows:
+![image](https://user-images.githubusercontent.com/75095310/130306174-ac9f98ec-a4e0-4c3a-bcf7-b21f20f2f786.png)

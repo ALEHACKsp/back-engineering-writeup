@@ -45,4 +45,4 @@ To expand the view of a struct in memory, right click anywhere in the struct vie
 
 To change a node's type, right click on the node, and select "Change Type."  You can then select the type you wish to apply.
 <br />
-![image](https://user-images.githubusercontent.com/75095310/130306734-2521d8ef-3fd2-47c2-8c0d-5e068c4c3b76.png)
+![image](https://user-images.githubusercontent.com/75095310/130306754-a8d910dc-8e4a-4807-8297-dfec630526d7.png)

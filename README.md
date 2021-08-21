@@ -31,7 +31,7 @@ To create a new struct type, you would right click "classes" at the left hand si
 <br />
 ![image](https://user-images.githubusercontent.com/75095310/130306219-730caa6c-1a64-4add-9c63-d483e77d0eb3.png)
 
-To delete a class, simply right the class name under the "classes" tag and select "Delete class"
+To delete a class, simply right the class name under the "classes" tag, and select "Delete class"
 <br />
 ![image](https://user-images.githubusercontent.com/75095310/130306312-32402a2b-570b-40e6-8b4d-7aacffde5d2f.png)
 
